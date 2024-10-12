@@ -6,6 +6,8 @@ ccg--tools是一款基于spring boot的常用工具库，包含工具库、以�
 * 官网地址: [暂无]()
 * 文档地址: [暂无]()
 * 开发计划: [暂无]()
+* Github: [https://github.com/IdleLeo/tools](https://github.com/IdleLeo/tools)
+* Gitee: [https://gitee.com/idleleo/tools](https://gitee.com/idleleo/tools)
 
 ## 功能模块
 | 名称                 | 版本         | 说明             |
