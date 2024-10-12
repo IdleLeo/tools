@@ -1,0 +1,29 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "cn.ccg.grpc.config.GrpcProperties",
+      "name": "spring.grpc",
+      "type": "cn.ccg.grpc.config.GrpcProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.grpc.enable",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.anoyi.grpc.config.GrpcProperties"
+    },
+    {
+      "name": "spring.grpc.port",
+      "type": "java.lang.Integer",
+      "sourceType": "cn.ccg.grpc.config.GrpcProperties",
+      "defaultValue": 6565
+    },
+    {
+      "name": "spring.grpc.clientInterceptor",
+      "type": "java.lang.Class",
+      "sourceType": "cn.ccg.grpc.config.GrpcProperties"
+    }
+  ]
+
+}
