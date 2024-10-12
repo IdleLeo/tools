@@ -23,4 +23,4 @@ ccg--tools是一款基于spring boot的常用工具库，包含工具库、以�
 | JDK                | 1.8            |
 | redis              | 6.0            |
 | SpringBoot         | 1.5.10.release |
-|
+
